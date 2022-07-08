@@ -4,7 +4,7 @@ Develop Hugo themes with Vite, a modern front-end tool.
 
 ## Usage
 
-Click the "[**Use this temlate**](https://github.com/misitebao/hugo-theme-starter/generate)" button at the top of the page, follow the prompts to fill out the form, and create your own theme.
+Click the "[**Use this template**](https://github.com/misitebao/hugo-theme-starter/generate)" button at the top of the page, follow the prompts to fill out the form, and create your own theme.
 
 Run `npm install` in the root directory to install dependencies.
 
