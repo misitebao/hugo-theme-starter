@@ -1,6 +1,6 @@
 <h1 align="center">Hugo Theme Starter</h1>
 
-<p align="center">Develop Hugo themes with Vite, a modern front-end tool.</p>
+<p align="center">使用现代前端工具 Vite 开发 Hugo 主题。</p>
 
 <p align="center">
   <a href="https://github.com/misitebao/hugo-theme-starter/blob/main/LICENSE">
@@ -24,23 +24,23 @@
 </strong>
 </div>
 
-## Usage
+## 使用方法
 
-Click the "[**Use this template**](https://github.com/misitebao/hugo-theme-starter/generate)" button at the top of the page, follow the prompts to fill out the form, and create your own theme.
+单击页面顶部的“[**使用此模板**](https://github.com/misitebao/hugo-theme-starter/generate)”按钮，按照提示填写表格创建自己的主题。
 
-Run `npm install` in the root directory to install dependencies.
+在根目录下运行 `npm install` 以安装依赖项。
 
 ```
 npm install
 ```
 
-Running `npm run build` will package the css and js source code written in the `src` directory into the `static` directory.
+运行 `npm run build` 会将 `src` 目录中编写的 css 和 js 源代码打包到 `static` 目录中。
 
 ```
 npm run build
 ```
 
-If you want to get real-time development experience, you can run the `npm run build:watch` command. When you update the js and css source code, the files will be automatically repackaged to the `static` directory. The best way is to cooperate with `hugo serve` command to use.
+如果您想获得实时开发体验，可以运行 `npm run build:watch` 命令。当你更新 js 和 css 源代码时，文件会自动重新打包到 `static` 目录中。最好的办法是配合 `hugo serve` 命令一起使用。
 
 ```
 npm run build:watch
