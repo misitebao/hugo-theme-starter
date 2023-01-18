@@ -1,0 +1,7 @@
+{
+  "framework": "hugo",
+  "devCommand": "hugo server -D",
+  "buildCommand": "mkdir ../hugo-theme-starter && mv -fv * ../hugo-theme-starter && cd ../hugo-theme-starter/exampleSite && hugo && pwd && ls public -a",
+  "outputDirectory": "../hugo-theme-starter/exampleSite/public",
+  "public": true
+}
